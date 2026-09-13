@@ -9,7 +9,7 @@ namespace RandomThingsOnInternet
         {
             const int iterations = 1_000_000;
 
-            const double vToV = 0.06 / 0.43;
+            const double vToV = 0.06 / 0.43; // xs co dieu kien: đang đứng trên một nguyên âm, khả năng kí tự kế tiếp cũng là nguyên âm?
             const double cToV = 0.67;
 
             long vCount = 1;
